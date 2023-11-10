@@ -1,20 +1,33 @@
-# Reanimated example
+# 🎥 How to Make a Sensor-Based Parallax Effect in React Native
 
-<p>
-  <!-- iOS -->
-  <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
-  <!-- Android -->
-  <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
-  <!-- Web -->
-</p>
+This repository contains the source code of a project used in the [How to Make a Sensor-Based Parallax Effect in React Native](https://www.youtube.com/watch?v=ExnJCyh-zVA) video on Software Mansion's [YouTube channel](https://www.youtube.com/@SoftwareMansion).
 
-## 🚀 How to use
+You can use this code to follow along the video or compare your code with the final solution.
 
-> `npx create-react-native-app my-app -t with-reanimated`
+## Running the project
 
-- Run `yarn` or `npm install`
-- Run `yarn start` or `npm run start` to try it out.
+Clone the repository onto your computer:
 
-## 📝 Notes
+```sh
+git clone https://github.com/software-mansion-labs/reanimated-parallax.git
+```
 
-- [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
+Checkout into the project folder:
+
+```sh
+cd reanimated-parallax
+```
+
+Install the packages with `npm`:
+
+```sh
+npm install
+```
+
+And, start the projectL:
+
+```sh
+npm run start
+```
+
+You may use your phone to test the app via [Expo Go](https://docs.expo.dev/get-started/expo-go/) app, or run the project locally using iOS simulator or Android emulator.
